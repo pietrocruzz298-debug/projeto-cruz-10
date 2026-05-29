@@ -1,0 +1,6 @@
+{
+  "name": "CRM Kanban",
+  "description": "Um CRM simples e poderoso em formato Kanban para gerenciar negócios e tarefas, conectado ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
